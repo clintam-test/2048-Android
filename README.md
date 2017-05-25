@@ -12,3 +12,6 @@ Original code: https://github.com/gabrielecirulli/2048
 Download from Google Play: https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame
 
 Use governed by the MIT License.
+
+
+Silly edit
